@@ -29,3 +29,8 @@ Make a “requirements.txt” file in this directory with a listing of all the s
 ```
 (env) $pip3 freeze > requirements.txt
 ```
+
+Run tests using:
+```
+python3 -m unittest test.py
+```
